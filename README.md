@@ -1,6 +1,9 @@
 `npm install -g vite`
 `npm create vite@latest my-vue-app -- --template react-ts`
 `npm i`
+`docker-compose up --build -d`
+http://localhost:3000/
+
 
 
 # React + TypeScript + Vite
